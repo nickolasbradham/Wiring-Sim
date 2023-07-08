@@ -34,10 +34,12 @@
     "IDEVersion": "2023.6.0.89",
   },
   "resources": [
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spr_util_in","path":"sprites/spr_util_in/spr_util_in.yy",},},
+    {"id":{"name":"obj_util_in","path":"objects/obj_util_in/obj_util_in.yy",},},
+    {"id":{"name":"rom_main","path":"rooms/rom_main/rom_main.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rom_main","path":"rooms/rom_main/rom_main.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
